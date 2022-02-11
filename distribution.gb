@@ -898,76 +898,6 @@ ORIGIN
 //
 LOCUS       Anderson_Promot         2424 bp    DNA     linear   UNK 01-JAN-1980
 DEFINITION  .
-ACCESSION   Anderson_Promoters_in_vector_Anderson_Promoters_in_vector_ins_BBa_J23112
-VERSION     Anderson_Promoters_in_vector_Anderson_Promoters_in_vector_ins_BBa_J23112
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     stem_loop       398..455
-                     /label="his operon terminator"
-     misc_feature    650..1238
-                     /label="pMB1 replication origin"
-     misc_feature    complement(1536..2195)
-                     /label="chloramphenicol resistance marker"
-     misc_feature    398..2424
-     misc_feature    1..169
-                     /label="D2001"
-     misc_feature    170..180
-                     /label="D1001"
-     misc_feature    216..226
-                     /label="D1002"
-     misc_feature    227..397
-                     /label="D2002"
-     promoter        181..215
-                     /label="BBa_J23112"
-     misc_feature    1..397
-ORIGIN
-        1 aacgatgatg ctcactctcg ggtaccagca ttttcggagg ttctctaaca gtatggataa
-       61 ccgtgttttc actgtgctgc ggttacccat cgcctgaaat ccagttggtg tcaagccatt
-      121 ccctgtctag gacgccgcat gtagtaaaac atatacattg ctcgggttcg gtctcgggag
-      181 ctgatagcta gctcagtcct agggattatg ctagctactt gagacctata aacgccaggt
-      241 tgtatccgca tttgatgcta ccatggatga gtcagcgtcg agcacgcggc atttattgca
-      301 tgagtagggt tgactaagaa ccgttagatg cctcgctgta ctaataattg tcaacagatc
-      361 gtcaagatta gaaaataggg tttagtccgg caatacttcc ggcaaaaaag ggcaaggtgt
-      421 caccaccctg ccctttttct ttaaaaccga aaagattact tcgcgttatg caggcttcct
-      481 cgctcactga ctcgctgcgc tcggtcgttc ggctgcggcg agcggtatca gctcactcaa
-      541 aggcggtaat acggttatcc acagaatcag gggataacgc aggaaagaac atgtgagcaa
-      601 aaggccagca aaaggccagg aaccgtaaaa aggccgcgtt gctggcgttt ttccacaggc
-      661 tccgcccccc tgacgagcat cacaaaaatc gacgctcaag tcagaggtgg cgaaacccga
-      721 caggactata aagataccag gcgtttcccc ctggaagctc cctcgtgcgc tctcctgttc
-      781 cgaccctgcc gcttaccgga tacctgtccg cctttctccc ttcgggaagc gtggcgcttt
-      841 ctcatagctc acgctgtagg tatctcagtt cggtgtaggt cgttcgctcc aagctgggct
-      901 gtgtgcacga accccccgtt cagcccgacc gctgcgcctt atccggtaac tatcgtcttg
-      961 agtccaaccc ggtaagacac gacttatcgc cactggcagc agccactggt aacaggatta
-     1021 gcagagcgag gtatgtaggc ggtgctacag agttcttgaa gtggtggcct aactacggct
-     1081 acactagaag aacagtattt ggtatctgcg ctctgctgaa gccagttacc ttcggaaaaa
-     1141 gagttggtag ctcttgatcc ggcaaacaaa ccaccgctgg tagcggtggt ttttttgttt
-     1201 gcaagcagca gattacgcgc agaaaaaaag gatctcaaga agatcctttg atcttttcta
-     1261 cggggtctga cgctcagtgg aacgaaaact cacgttaagg gattttggtc atgagattat
-     1321 caaaaaggat cttcacctag atccttttaa attaaaaatg aagttttaaa tcaatctaaa
-     1381 gtatatatga gtaaacttgg tctgacagct cgaggcttgg attctcacca ataaaaaacg
-     1441 cccggcggca accgagcgtt ctgaacaaat ccagatggag ttctgaggtc attactggat
-     1501 ctatcaacag gagtccaagc gagctcgata tcaaattacg ccccgccctg ccactcatcg
-     1561 cagtactgtt gtaattcatt aagcattctg ccgacatgga agccatcaca aacggcatga
-     1621 tgaacctgaa tcgccagcgg catcagcacc ttgtcgcctt gcgtataata tttgcccatg
-     1681 gtgaaaacgg gggcgaagaa gttgtccata ttggccacgt ttaaatcaaa actggtgaaa
-     1741 ctcacccagg gattggctga gacgaaaaac atattctcaa taaacccttt agggaaatag
-     1801 gccaggtttt caccgtaaca cgccacatct tgcgaatata tgtgtagaaa ctgccggaaa
-     1861 tcgtcgtggt attcactcca gagcgatgaa aacgtttcag tttgctcatg gaaaacggtg
-     1921 taacaagggt gaacactatc ccatatcacc agctcaccgt ctttcattgc catacgaaat
-     1981 tccggatgag cattcatcag gcgggcaaga atgtgaataa aggccggata aaacttgtgc
-     2041 ttatttttct ttacggtctt taaaaaggcc gtaatatcca gctgaacggt ctggttatag
-     2101 gtacattgag caactgactg aaatgcctca aaatgttctt tacgatgcca ttgggatata
-     2161 tcaacggtgg tatatccagt gatttttttc tccattttag cttccttagc tcctgaaaat
-     2221 ctcgataact caaaaaatac gcccggtagt gatcttattt cattatggtg aaagttggaa
-     2281 cctcttacgt gcccgatcaa ctcgagtgcc acctgacgtc taagaaacca ttattatcat
-     2341 gacattaacc tataaaaata ggcgtatcac gaggcagaat ttcagataaa aaaaatcctt
-     2401 agctttcgct aaggatgatt tctg
-//
-LOCUS       Anderson_Promot         2424 bp    DNA     linear   UNK 01-JAN-1980
-DEFINITION  .
 ACCESSION   Anderson_Promoters_in_vector_Anderson_Promoters_in_vector_ins_BBa_J23113
 VERSION     Anderson_Promoters_in_vector_Anderson_Promoters_in_vector_ins_BBa_J23113
 KEYWORDS    .
@@ -12802,12 +12732,12 @@ FEATURES             Location/Qualifiers
                      /original_record="part"
      gene            2033..3091
                      /label="URA3 marker"
+                     /note="/ApEinfo_fwdcolor/original_record=part"
                      /note="URA3 encodes orotidine-5’phosphate decarboxylase, an
                      enzyme which is required for the biosynthesis of uracil.
                      Complements Ura3 auxotrophic mutations in yeast. It also
                      acts as negative selection is based on the inhibit or
                      5-fluoro-orotic acid (FOA)"
-                     /note="/ApEinfo_fwdcolor/original_record=part"
      promoter        2033..2209
                      /label="URA3 promoter"
                      /original_record="part"
