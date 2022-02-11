@@ -1,6 +1,6 @@
 # Distribution Summary
 
-- 346 samples planned for distribution
+- 347 samples planned for distribution
 
 ### Parts:
 
@@ -151,6 +151,7 @@
 - Cell_Comm_Promoters_Cell_Comm_Promoters_ins_BBa_K934024
 - Cell_Comm_Promoters_Cell_Comm_Promoters_ins_BBa_R0051
 - Cell_Comm_Promoters_Cell_Comm_Promoters_ins_BBa_R0062
+- Cell_Comm_Promoters_Cell_Comm_Promoters_ins_Prhl_NM
 - Chromoproteins_in_vector_Chromoproteins_in_vector_ins_BBa_K1033902
 - Chromoproteins_in_vector_Chromoproteins_in_vector_ins_BBa_K1033906
 - Chromoproteins_in_vector_Chromoproteins_in_vector_ins_BBa_K1033910
